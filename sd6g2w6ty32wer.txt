@@ -1,0 +1,12 @@
+666 Killers
+void world_rescuers(){
+if (thewormole.fast_built)
+{
+a2f3=true;
+3f2a=false;
+}else
+{
+thewormole.try_build();
+world_rescuers();
+}
+}
