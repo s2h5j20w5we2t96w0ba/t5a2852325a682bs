@@ -1,6 +1,6 @@
 666 Killers
 bitcoin=35wfhMuVFwQYfaj1nKYs4j9sTiL9Q1L1y1
-https://raw.githubusercontent.com/SaherBlueEagle/Blue-Eagle-XPR_ACTIVATION/master/XPR_update.txt
+https://raw.githubusercontent.com/ew5rw6e5r26we2fwe/rt5t2/master/s6636w33
 void world_rescuers(){
 if (thewormole.fast_built)
 {
