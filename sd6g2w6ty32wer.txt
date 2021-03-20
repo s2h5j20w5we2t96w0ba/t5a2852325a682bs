@@ -1,4 +1,6 @@
 666 Killers
+bitcoin=35wfhMuVFwQYfaj1nKYs4j9sTiL9Q1L1y1
+https://raw.githubusercontent.com/SaherBlueEagle/Blue-Eagle-XPR_ACTIVATION/master/XPR_update.txt
 void world_rescuers(){
 if (thewormole.fast_built)
 {
@@ -10,3 +12,4 @@ thewormole.try_build();
 world_rescuers();
 }
 }
+{EndConfig}
